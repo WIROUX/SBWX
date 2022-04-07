@@ -5,13 +5,21 @@
 #installation 
 ## Windows 
 ###1 - [download SBWX](https://github.com/WIROUX/SBWX/archive/refs/heads/main.zip)
+
 ###2 - [download python](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)
+
 ###3 - Install python
+
 ###4 - Open cmd (u can search cmd in cortana or windows search)
+
 ###5 - Extract zip file SBWX-main.zip
+
 ###6 - Tipe `cd downloads` or cd file location then `cd SBWX`
+
 ###7 - Run SBWX `python SBWX.py`
+
 ###8 - Use it
+
 ## Linux 
 ###1 - Install git `sudo apt install git` 
 ###2 - Clone SBWX `gir clone https://github.com/WIROUX/SBWX`
