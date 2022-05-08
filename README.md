@@ -1,5 +1,5 @@
 # SBWX 
-#Sms bobmer With 72 api iran
+#Sms bobmer With 80 api iran and U.S.A
 ## use in windows,linux,android
 
 #installation 
