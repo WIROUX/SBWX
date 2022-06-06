@@ -52,5 +52,5 @@
 
 # I love u guys 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=WIROUX/SBWX&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/WIROUX/SBWX/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=WIROUX&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/WIROUX/SBWX/github-readme-stats)
 
