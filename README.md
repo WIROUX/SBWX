@@ -23,7 +23,7 @@
 ## Linux 
 ###1 - Install git `sudo apt install git` 
 
-###2 - Clone SBWX `gir clone https://github.com/WIROUX/SBWX`
+###2 - Clone SBWX `git clone https://github.com/WIROUX/SBWX`
 
 ###3 - Install python `sudo apt-get update` then update `sudo apt-get install python3.10.4`
 
