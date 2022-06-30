@@ -1,25 +1,9 @@
 # SBWX 
-#Sms bobmer With 80 api iran and U.S.A
-## use in windows,linux,android
+#powerfull Sms bobmer With 80 api IR
+## use in linux,termux
+## passwords in [my Channel](https://t.me/SaDWX_TM_CH/38)
 
 #installation 
-## Windows 
-###1 - [download SBWX](https://github.com/WIROUX/SBWX/archive/refs/heads/main.zip)
-
-###2 - [download python](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)
-
-###3 - Install python
-
-###4 - Open cmd (u can search cmd in cortana or windows search)
-
-###5 - Extract zip file SBWX-main.zip
-
-###6 - Tipe `cd downloads` or cd file location then `cd SBWX`
-
-###7 - Run SBWX `python SBWX.py`
-
-###8 - Use it
-
 ## Linux 
 ###1 - Install git `sudo apt install git` 
 
@@ -33,7 +17,7 @@
 
 ###6 - Use it
 
-## Android
+## Termux
 ###1 - [download termux](https://f-droid.org/repo/com.termux_118.apk)
 
 ###2 - Update termux `apt update && pkg upgrade -y`
@@ -52,5 +36,4 @@
 
 # I love u guys 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=WIROUX&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/WIROUX/SBWX/github-readme-stats)
 
