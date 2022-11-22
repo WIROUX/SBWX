@@ -9,9 +9,8 @@ f.write("""
 ایمیل ما 
 www.sadwx01@gmail.com """)
 f.close()
-while True:
-  os.system("xdg-open SBWX.txt")
-  print("pls open SBWX.txt")
+os.system("xdg-open SBWX.txt")
+print("pls open SBWX.txt")
 p=input("open gmail?for speak with me? (y)")
 if p=="y" or p=="Y":
   os.system("xdg-open www.sadwx01@gmail.com")
